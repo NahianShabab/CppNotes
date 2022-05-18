@@ -8,6 +8,8 @@
 g++ -c *.cpp
 ```
 ### This resulted some object files
+
+```
 g++ -o main *.o
 ```
 
